@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "RESET",
+  "base_artist": "CHIHIRO",
+  "createdAt": "2026-03-08T11:05:22.575649Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reset (feat. Khujo Goodie & Cee-Lo)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/01_Reset_(feat._Khujo_Goodie_&_Cee-Lo)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reset",
+      "artist": "Atari Teenage Riot",
+      "has_synced": true,
+      "path": "select/02_Reset_Atari_Teenage_Riot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reset (Live)",
+      "artist": "MUTEMATH",
+      "has_synced": false,
+      "path": "select/03_Reset_(Live)_MUTEMATH.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reset After All",
+      "artist": "Shaka Ponk",
+      "has_synced": true,
+      "path": "select/04_Reset_After_All_Shaka_Ponk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reset",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/05_Reset_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flip Reset",
+      "artist": "Kaskade feat. WILL K",
+      "has_synced": true,
+      "path": "select/06_Flip_Reset_Kaskade_feat._WILL_K.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flip Reset",
+      "artist": "Kaskade Ft. Will K",
+      "has_synced": true,
+      "path": "select/07_Flip_Reset_Kaskade_Ft._Will_K.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life Reset Button",
+      "artist": "kemu",
+      "has_synced": true,
+      "path": "select/08_Life_Reset_Button_kemu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reset",
+      "artist": "Mukai Taichi",
+      "has_synced": true,
+      "path": "select/09_Reset_Mukai_Taichi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reset",
+      "artist": "Taichi Mukai",
+      "has_synced": true,
+      "path": "select/10_Reset_Taichi_Mukai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RESET",
+      "artist": "Chihiro",
+      "has_synced": false,
+      "path": "select/pl_01_RESET_Chihiro.txt"
+    }
+  ]
+}
